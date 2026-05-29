@@ -21,7 +21,7 @@ Busco minha primeira oportunidade como desenvolvedor (estágio), onde eu possa a
 ## 📬 Contato
 
 * 📩 **E-mail:** [grigorsilva42@gmail.com]
-* 💼 **LinkedIn:** (linkedin.com/in/grigor-oliveira-da-silva-51911035a)
+* 💼 **LinkedIn:** linkedin.com/in/grigor-oliveira-da-silva-51911035a
 
 --
 
@@ -41,7 +41,7 @@ Busco minha primeira oportunidade como desenvolvedor (estágio), onde eu possa a
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=grigorsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorsilva&layout=compact&theme=tokyonight" />
 </p>

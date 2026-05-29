@@ -35,12 +35,3 @@ Busco minha primeira oportunidade como desenvolvedor (estágio), onde eu possa a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
-
----
-
-## 📊 Estatísticas
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=grigorsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grigorsilva&layout=compact&theme=tokyonight" />
-</p>
